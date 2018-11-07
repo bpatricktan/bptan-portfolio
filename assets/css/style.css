@@ -28,6 +28,14 @@ background-color: #141414;
 color: #f2f2f2;
 }*/
 
+
+#me-pic,
+#me-pic-m,
+#me-pic-s {
+	border-radius: 10%;
+}
+
+
 #nav-top {
 	background-color: #141414;
 	/*background-image: linear-gradient(to right, rgba(20,20,20,0), rgba(20,20,20,1))*/
@@ -454,7 +462,7 @@ animation: mymove 1s ;
 
     .item {
     	position: relative;
-
+    	/*border-radius: 10%;*/
     	/*border: 1px solid #333;*/
     	margin: 2%;
     	overflow: hidden;
