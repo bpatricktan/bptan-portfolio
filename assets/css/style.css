@@ -160,6 +160,12 @@ animation: mymove 1s ;
     	/*background-color: #23445F;*/
     	background-color: #0C5176;
     }
+
+    #laravel-bar {
+        width:30%;
+        /*background-color: #23445F;*/
+        background-color: #0C5176;
+    }
     /*BACK END*/
     /*Gray*/
 
